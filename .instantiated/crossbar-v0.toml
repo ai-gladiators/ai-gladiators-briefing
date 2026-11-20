@@ -1,0 +1,54 @@
+# Written by tools/instantiate.py - do not edit by hand.
+# Provenance for files copied into this repo from the source of truth.
+source_repo   = "ai-gladiators/ai-gladiators-competitions"
+source_commit = "d8c08861abb4ac6341af64e75863e399b0b63092"
+source_clean  = true
+instantiated  = "2026-11-20T16:05:47Z"
+
+[[file]]
+path = "competitions/crossbar-v0.md"
+blob = "d48b014af53d397773c4bd8a14377f0e295fb614"
+
+[[file]]
+path = "targets/crossbar/single-node/.crossbar/config.json"
+blob = "96344e12363609aa62539e6de0b0b05b94976734"
+
+[[file]]
+path = "targets/crossbar/single-node/README.md"
+blob = "801e1896030f171b5ea27626bb5f78d947dfce9c"
+
+[[file]]
+path = "targets/crossbar/single-node/.gitignore"
+blob = "40da07f689472fa4a2d9822dd1036724ed205a7e"
+
+[[file]]
+path = "targets/crossbar/single-node/web/index.html"
+blob = "80b65deea33d2e01dfc349213c5ad9105d944386"
+
+[[file]]
+path = "targets/crossbar/single-node/client/pyproject.toml"
+blob = "972969dfc2df9b297629073e72f7c6968b0d9057"
+
+[[file]]
+path = "targets/crossbar/single-node/client/uv.lock"
+blob = "d961d50fcff79c0298f6a6dd77a7653940dca350"
+
+[[file]]
+path = "targets/crossbar/single-node/client/workload.py"
+blob = "80fa082a9f4911e124a463cdad9ac464cd3b532f"
+
+[[file]]
+path = "targets/crossbar/single-node/smoke.sh"
+blob = "4c78787367bafdbc562925cd09b8d40d7dc33cc2"
+
+[[file]]
+path = "targets/crossbar/single-node/smoke_inject.py"
+blob = "05974942a9fa1d9213eeb3cb987fe0dde355c1ab"
+
+[[file]]
+path = "targets/crossbar/single-node/referee/verify_flags.py"
+blob = "1c1384e7fcb0d13a631df6645c7ee7913d77c326"
+
+[[file]]
+path = "targets/crossbar/single-node/referee/verify_events.py"
+blob = "ca98e559e059db312f7b767ca8ba0e6683d75e8b"
