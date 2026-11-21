@@ -1,0 +1,70 @@
+# Written by tools/instantiate.py - do not edit by hand.
+# Provenance for files copied into this repo from the source of truth.
+source_repo   = "ai-gladiators/ai-gladiators-competitions"
+source_commit = "7172836307dee4663fed7bdce183d81f102a88ee"
+source_clean  = true
+instantiated  = "2026-11-21T22:13:47Z"
+
+[[file]]
+path = "competitions/crossbar-v2.md"
+blob = "f8b62f3e274837ec2a2c5a6fc670a472f054b56f"
+
+[[file]]
+path = "targets/crossbar/two-node/nodeA/.crossbar/config.json"
+blob = "4cd98bbc25b60f801ef0b7e49f1a3c6698538cea"
+
+[[file]]
+path = "targets/crossbar/two-node/nodeB/.crossbar/config.json"
+blob = "06c9ff0290daefc58e66e287378021042f8444ed"
+
+[[file]]
+path = "targets/crossbar/two-node/README.md"
+blob = "ceeaaf92340de488c7a73615f58d46b0f11f8d1a"
+
+[[file]]
+path = "targets/crossbar/two-node/.gitignore"
+blob = "a1828417b14431a3284fe9f6e797a920c3d1760c"
+
+[[file]]
+path = "targets/crossbar/two-node/web/index.html"
+blob = "5fa9799fc3b588a63b46682cc4c384e6df067036"
+
+[[file]]
+path = "targets/crossbar/two-node/verify_target.py"
+blob = "a0970da70a665089a74568a359fbe7f9ab39c64f"
+
+[[file]]
+path = "targets/crossbar/two-node/client/pyproject.toml"
+blob = "72e6648b9698b79e7e15d28bb3010731d8160fc1"
+
+[[file]]
+path = "targets/crossbar/two-node/client/uv.lock"
+blob = "40bf1decc976f740e9e85f4fdcce2033f78efc4e"
+
+[[file]]
+path = "targets/crossbar/two-node/client/workload.py"
+blob = "d21a4307a2aceada789fed5566f19ae8796a993c"
+
+[[file]]
+path = "targets/crossbar/two-node/smoke.sh"
+blob = "e23de845499a69742a716b7cbbb1b9ea2db65c4c"
+
+[[file]]
+path = "targets/crossbar/two-node/smoke_inject.py"
+blob = "31f7f92eecc2cef090b8d684d972172f0dedbfca"
+
+[[file]]
+path = "targets/crossbar/two-node/smoke_rogue.py"
+blob = "94e0a8a325f2075d769f50361743035794791c65"
+
+[[file]]
+path = "targets/crossbar/two-node/referee/verify_flags.py"
+blob = "ab57129dea694cb8fdfb9c9df80eb1e2ab838395"
+
+[[file]]
+path = "targets/crossbar/two-node/referee/verify_events.py"
+blob = "ca98e559e059db312f7b767ca8ba0e6683d75e8b"
+
+[[file]]
+path = "targets/crossbar/two-node/referee/verify_calls.py"
+blob = "2af6210cee85dee71648cb84c2cfa4589a645624"
